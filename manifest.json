@@ -1,15 +1,12 @@
 {
-  "manifest_version": 2,
-
-  "name": "Birthday",
-  "description": "Birthday",
-  "version": "1.0",
-
-  "permissions": [
-    "https://secure.flickr.com/"
-  ],
-  "browser_action": {
-    "default_icon": "icon.png",
-    "default_popup": "popup.html"
-  }
+    "manifest_version": 2,
+    "name": "__MSG_appName__",
+    "description": "__MSG_appDesc__",
+    "version": "1.0",
+    "default_locale": "ta",
+    "browser_action": {
+        "default_icon": "birthday.png",
+        "tooltip": "Agile Cyber Family Birthday",
+        "default_popup": "ts_birthday.html"
+    }
 }

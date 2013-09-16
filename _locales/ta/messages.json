@@ -1,0 +1,10 @@
+{
+    "appName": {
+        "message": "Agile பிறந்தநாள்",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDesc": {
+        "message": "Agile Cyber குடும்பம் பிறந்தநாள்",
+        "description": "The description of the application, displayed in the web store."
+    }
+}
